@@ -4,7 +4,7 @@ import { Logo } from './Logo'
 
 export const Header = () => {
     return (
-        <header className='p-2 shadow-md'>
+        <header className='py-2 shadow-md'>
             <Container>
                 <Logo />
             </Container>
